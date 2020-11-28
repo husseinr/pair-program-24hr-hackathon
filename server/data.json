@@ -1,0 +1,392 @@
+[
+    {
+        "id": "001",
+        "question": "What does SASS stand for?",
+        "answers": [
+            "Super Amazing Sleek Styles",
+            "Syntactically Awesome Style Sheets",
+            "Strangely Arranged Syntax Structure",
+            "Sweet and Sour Scallops"
+        ],
+
+        "correct_answer": "Syntactically Awesome Style Sheets"
+    },
+
+    {
+        "id": "002",
+        "question": "SASS files are saved with what extension?",
+        "answers": [
+            ".sass",
+            ".css",
+            ".scss",
+            ".sassy"
+        ],
+
+        "correct_answer":".scss"
+    },
+
+    {
+        "id": "003",
+        "question": "SASS is a preprocessor language compiled by what language?",
+        "answers": [
+            "CSS",
+            "HTML",
+            "React",
+            "Angular"
+        ],
+
+        "correct_answer":"CSS"
+    },
+
+    {
+        "id": "004",
+        "question": "What is the correct way to store a variable in SASS?",
+        "answers": [
+            "$primary-background-color: #ce6699",
+            "primary-background-color = #ce6699",
+            "primary-background-color = $#ce6699",
+            "variable = primary-background-color = $#ce6699"
+        ],
+
+        "correct_answer":  "$primary-background-color: #ce6699"
+    },
+
+    {
+        "id": "005",
+        "question": "Which of the following is used to apply similar styles to a selected field from another field?",
+        "answers": [
+            "@media",
+            "@extends",
+            "@import",
+            "@apply-styles"
+        ],
+
+        "correct_answer":"@extends"
+    },
+
+    {
+        "id": "006",
+        "question": "What symbol is used when nesting selectors in SASS?",
+        "answers": [
+            "&",
+            "$",
+            "@",
+            "%"
+        ],
+
+        "correct_answer":"&"
+    },
+
+    {
+        "id": "007",
+        "question": "What does Jon yell when he succssfully debugs code?",
+        "answers": [
+            "When is lunch?",
+            "Of course I knew the answer",
+            "Kiss my SASS - I knew it",
+            "It Worked!"
+        ],
+
+        "correct_answer": "It Worked!"
+    },
+
+    {
+        "id": "008",
+        "question": "What selector is used when selecting a class?",
+        "answers": [
+            ".",
+            "#",
+            "$",
+            "*"
+        ],
+
+        "correct_answer":"."
+    },
+
+    {
+        "id": "009",
+        "question": "What selector is used when selecting a ID?",
+        "answers": [
+            ".",
+            "#",
+            "$",
+            "*"
+        ],
+
+        "correct_answer":"#"
+    },
+
+    {
+        "id": "010",
+        "question": "What method is used to condense/simplify your styling code?",
+        "answers": [
+            "@extends",
+            "@import",
+            "@variables",
+            "@mixin"
+        ],
+
+        "correct_answer":"@mixin"
+    },
+
+    {
+        "id": "011",
+        "question": "What method is used to import a SASS file into a HTML file?",
+        "answers": [
+            "<stylesheet rel='stylesheet.scss' type='stylesheet'>",
+            "<stylesheet href='stylesheet.scss' type='stylesheet'>",
+            "<stylesheet href='stylesheet.scss'rel='stylesheet'>",
+            "none of the above"
+        ],
+
+        "correct_answer":  "none of the above"
+    },
+
+    {
+        "id": "012",
+        "question": "What does BEM stand for?",
+        "answers": [
+            "Block Element Modifier",
+            "Block Element Model",
+            "Big Eel Meal",
+            "Branch Element Model"
+        ],
+
+        "correct_answer":"Block Element Modifer"
+    },
+
+    {
+        "id": "013",
+        "question": "What is Jon's record for demoing one slide?",
+        "answers": [
+            "1.5 hours",
+            "2 hours",
+            "30 minutes",
+            "1 hour"
+        ],
+
+        "correct_answer":"1 hour"
+    },
+
+    {
+        "id": "014",
+        "question": "What display method is used to arrange items in a container?",
+        "answers": [
+            "display: arrange",
+            "display: row",
+            "display: flex",
+            "display: shuffle"
+        ],
+
+        "correct_answer":"display: flex"
+    },
+
+    {
+        "id": "015",
+        "question": "What method is used to reverse the direction of a flexed container?",
+        "answers": [
+            "row/column reverse",
+            "reverse-flex",
+            "flip-items",
+            "justify-content: space-between"
+        ],
+
+        "correct_answer":"row/column reverse"
+    },
+
+    {
+        "id": "016",
+        "question": "What rule aligns items along the center of the main axis?",
+        "answers": [
+            "justify-items: center",
+            "justify-content: center",
+            "align-items: center",
+            "align-content: center"
+        ],
+
+        "correct_answer":"justify-content: center"
+    },
+
+    {
+        "id": "017",
+        "question": "What is Lauren's favourite phrase?",
+        "answers": [
+            "sup-guys?",
+            "howdy students!",
+            "do you to take up the lab?",
+            "it is imperative that you remember this"
+        ],
+
+        "correct_answer":"sub-guys"
+    },
+
+    {
+        "id": "018",
+        "question": "How many real-life backgrounds does Angus have?",
+        "answers": [
+            "five",
+            "three",
+            "two",
+            "six"
+        ],
+
+        "correct_answer":"five"
+    },
+
+
+    {
+        "id": "019",
+        "question": "What animal is known to be the loudest one on earth?",
+        "answers": [
+            "sperm whale",
+            "howler monkey",
+            "male lion",
+            "african elephant"
+        ],
+
+        "correct_answer":"five"
+    },
+
+    {
+        "id": "020",
+        "question": "What are media queries?",
+        "answers": [
+            "something the browser uses for accepting media",
+            "a method to conditionally add rulesets",
+            "a way to improve media related items",
+            "a method to access media APIs"
+        ],
+
+        "correct_answer":"a method to conditionally add rulesets"
+    },
+
+    {
+        "id": "021",
+        "question": "What is Jessica's favourite game?",
+        "answers": [
+            "tic-tac-toe",
+            "catan",
+            "zoom whack-a-mole with Angus",
+            "mantarry"
+        ],
+
+        "correct_answer":"zoom whack-a-mole with Angus"
+    },
+
+    {
+        "id": "022",
+        "question": "What array method is used to remove the last item?",
+        "answers": [
+            ".remove",
+            ".pop",
+            ".push",
+            ".pull"
+        ],
+
+        "correct_answer":".pop"
+    },
+
+    {
+        "id": "023",
+        "question": "What was the first computer virus named?",
+        "answers": [
+            "Elk Cloner",
+            "Max Uppercut",
+            "Blue Steel",
+            "Baby Softcheeks"
+        ],
+
+        "correct_answer":"Elk Cloner"
+    },
+
+    {
+        "id": "024",
+        "question": "Which property is used to color text?",
+        "answers": [
+            "background-color",
+            "font-style-color",
+            "font-color",
+            "color"
+        ],
+
+        "correct_answer":"color"
+    },
+
+    {
+        "id": "025",
+        "question": "Where does the link for your style sheet belong?",
+        "answers": [
+            "HTML <header></header>",
+            "HTML <body></body>",
+            "HTML <footer></footer>",
+            "HTML <head></head>"
+        ],
+
+        "correct_answer": "HTML <head></head>"
+    },
+
+    {
+        "id": "026",
+        "question": "Who is the father of the computer?",
+        "answers": [
+            "Alan Turing",
+            "Charles Babbage",
+            "John Galt",
+            "Satoshi Nakamoto"
+        ],
+
+        "correct_answer": "Charles Babbage"
+    },
+
+    {
+        "id": "027",
+        "question": "a:hover is an example of what?",
+        "answers": [
+            "pseudo-class",
+            "selectors",
+            "link attributes",
+            "SASS extensions"
+        ],
+
+        "correct_answer": "pseudo-class"
+    },
+
+    {
+        "id": "028",
+        "question": "Which selector will select all <p></p> elements?",
+        "answers": [
+            "#p{}",
+            ".p{}",
+            "<p>{}",
+            "p{}"
+        ],
+
+        "correct_answer": "p{}"
+    },
+
+    {
+        "id": "029",
+        "question": "What does CSS stand for?",
+        "answers": [
+            "Crazy Style Site",
+            "Cascading Style Sheets",
+            "Cranky Style Sheets",
+            "Crypto Style Site"
+        ],
+
+        "correct_answer": "Cascading Style Sheet"
+    },
+
+    {
+        "id": "030",
+        "question": "How long did it take Brendan Eich to create JavaScript?",
+        "answers": [
+            "10 hours",
+            "10 weeks",
+            "10 days",
+            "10 minutes"
+        ],
+
+        "correct_answer": "10 days"
+    }
+]
