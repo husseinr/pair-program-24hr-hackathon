@@ -1,0 +1,37 @@
+.question {
+    border: grey solid 1px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    background-color: #fefefe ;
+    padding-bottom: 30px;
+    
+    &__header {
+    font-size: 25px;
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+
+    }
+
+    &__option{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-around;
+   
+
+        &-button {
+            font-size: 1rem;
+            margin: 10px auto;
+            color: white;
+            background-color:#ce6699;
+            border-color: white;
+            height: 50px;
+            width: 50%;
+            border-radius:10px;
+        }
+
+        &-button:hover {
+            background-color: black;
+        }
+    }
+}

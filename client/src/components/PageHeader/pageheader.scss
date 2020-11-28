@@ -1,0 +1,21 @@
+@import "../../styles/common-styles";
+
+nav {
+    height: 100px;
+    background-color: rgb(182, 182, 182);
+    padding-left: 5%;
+    padding-top: 1em;
+
+}
+
+.nav__header {
+    font-family: Monofett;
+    margin: auto 0;
+    font-size: 40px;
+    margin-right: 10px;
+ }
+
+ .nav__header-logo {
+    height: 60px;
+    margin-left: 20px;
+}
